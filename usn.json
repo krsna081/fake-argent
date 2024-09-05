@@ -1,1 +1,10 @@
-[{ username: "krizz", ip: "114.10.105.139" }, { username: "peler",  ip: "13.382.183" }]
+[
+  {
+    username: 'krizz',
+    ip: '114.10.105.139',
+  },
+  {
+    username: 'waw',
+    ip: '733.33.263',
+  }
+]
