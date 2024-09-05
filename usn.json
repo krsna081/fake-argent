@@ -1,10 +1,6 @@
 [
   {
-    username: 'krizz',
-    ip: '114.10.105.139',
-  },
-  {
-    username: 'waw',
-    ip: '733.33.263',
+    'username': 'krizz',
+    'ip': '114.73.272.272',
   }
 ]
